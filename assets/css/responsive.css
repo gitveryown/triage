@@ -3027,7 +3027,7 @@
 
 @media (max-width: 1345px) {
   .header-area {
-    padding: 2rem;
+    padding: 10px 0;
   }
   .header-area.header-2 .navbar-wrapper ul li .mega-menu {
     width: 100%;
@@ -4279,9 +4279,6 @@
   }
 }
 @media (max-width: 699px) {
-  .theme-btn {
-    display: none;
-  }
   .how-we-do-area .how-we-do-right-content .how-we-do-items {
     flex-direction: column;
     gap: 30px;

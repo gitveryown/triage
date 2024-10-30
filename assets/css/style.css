@@ -2517,13 +2517,6 @@ img {
   padding-top: 140px;
   padding-bottom: 140px;
 }
-.case-studio-tabs {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 20px;
-}
-
 .case-studio-area .custom-container {
   max-width: 1340px;
 }
@@ -2821,6 +2814,11 @@ img {
 .new-release-items .sticky-news + .sticky-news ul li i {
   background: var(--primary_color);
   color: #ffffff;
+}
+
+/* Privacy */
+.privacy {
+  text-align: center;
 }
 
 /* Pricing Table */
