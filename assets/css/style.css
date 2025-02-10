@@ -2612,7 +2612,7 @@ img {
   .case-studio-tab-content
   .case-studio-body
   .right {
-  width: 518px;
+  width: 50%;
   flex: none;
 }
 .case-studio-area
@@ -2712,7 +2712,7 @@ img {
   .case-studio-tab-content
   .case-studio-body
   .right {
-  max-width: 538px;
+  max-width: 50%;
   width: 100%;
 }
 .overview-page
